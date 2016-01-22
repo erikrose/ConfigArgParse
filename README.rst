@@ -1,3 +1,9 @@
+.. note::
+
+    Though this is stored under the python2.6-0.9.3 branch, this is now
+    actually a copy of ConfigArgParse 0.10.0. See
+    https://github.com/letsencrypt/letsencrypt/issues/2243 for more explanation.
+
 Overview
 ~~~~~~~~
 
